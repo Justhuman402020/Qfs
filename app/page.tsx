@@ -6,7 +6,7 @@ export default function Home() {
       id: 1,
       name: 'cgi-bin',
       type: 'folder',
-      modified: '2024'
+      modified: '2026'
     }
   ];
 
@@ -15,10 +15,10 @@ export default function Home() {
       {/* Browser Header */}
       <header className="bg-gray-800 text-white px-4 py-3 sticky top-0 z-50">
         <div className="flex items-center justify-between gap-2 text-xs mb-2">
-          <span>9:05 AM</span>
+          <span>9:36 AM</span>
           <div className="flex gap-1">
             <div className="w-4 h-3 border border-white rounded" />
-            <span>84</span>
+            <span>78</span>
           </div>
         </div>
         
