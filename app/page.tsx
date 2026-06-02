@@ -87,7 +87,7 @@ export default function Home() {
           {/* Footer */}
           <div className="mt-8 text-gray-500 text-sm text-center">
             <p>Proudly Served by LiteSpeed Web Server at</p>
-            <p>qfsworldweb3asset.com Port 443 [TEST-CHANGE]</p>
+            <p>qfsworldweb3asset.com Port 443 [DEPLOYMENT-TEST-001]</p>
           </div>
         </div>
       </main>
