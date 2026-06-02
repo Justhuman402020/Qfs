@@ -6,7 +6,7 @@ export default function Home() {
       id: 1,
       name: 'cgi-bin',
       type: 'folder',
-      modified: '2026'
+      modified: '2024'
     }
   ];
 
